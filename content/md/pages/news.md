@@ -6,15 +6,75 @@
 
 ## Headlines
 
+
+<x-accordion summary="Week of 20/09/2024">
+
+ _Written by Erika Lau_
+
+### US: 
+The large-cap indexes moved to record highs as investors celebrated the kickoff of the rate-cutting cycle by a 50 bps cut on Thursday morning. The rally was also relatively broad, with the smaller-cap indexes outperforming, although they remained below previous peaks—the small-cap Russell 2000 Index, in particular, ended the week roughly 9% below the all-time high it established in November 2021.
+The rally is accompanied by good consumer data that ease recession fears. Retail sales on Tue had risen 0.1%, which was more than expected and which followed an upwardly revised jump of 1.1% in July. The downside surprise on jobless claims on Thu provided more evidence for supporting the consumer in good shape. The housing sector also improved by a 4.9% rise in housing permits of August on Wed, although sales of existing homes had unexpectedly fallen 2.5%.
+
+#### Credits: 
+10 year treasury yield rose. Spreads in the investment-grade corporate bond market tightened throughout the week as higher rates spurred demand early in the week. Issuance occurred early in the week, before the Fed’s policy meeting, and was, on average, oversubscribed.
+
+#### Single Stock: 
+INTC ended the week with an announcement of a potential acquisition with Qualcomm which helped push the stock up 11% for the week.
+
+### CN/HK: 
+Chinese equities rose in a holiday-shortened week as the Fed’s decision to cut interest rates offset a batch of disappointing economic data. The Shanghai Composite Index gained 1.21%, while the blue chip CSI 300 added 1.32%.
+Disappointing foreign direct investment flows on Friday were down 31.5% on the same period last year, the biggest fall since January 2009. Industrial production rose 4.5% from a year earlier, lagging forecasts and down from July’s 5.1% increase amid weaker commodity prices and auto sales. Retail sales expanded a below-consensus 2.1% from a year ago, easing from July’s 2.7% rise.
+The yuan is its strongest in 16 months though, thanks to the central bank’s reluctance to cut rates and rising expectations that authorities will soon unveil stimulus that will revive growth, asset prices and confidence.
+Sector-wise, EU tariffs on Chinese EV makers are revised down. BYD saw tariffs cut to 17% from 17.4%, Geely to 19.3% from 19.9%, and SAIC saw a reduction to 36.3% from 37.6%. Despite the tariffs, analysts say Chinese EV prices will remain competitive in Europe when compared to Chinese-made Tesla. Research by Rhodium group suggests tariffs of up to 50% are needed to significantly deter Chinese EV exports.
+Tech-front, the U.S. Commerce Department is expected on Monday to propose prohibiting Chinese software and hardware in connected and autonomous vehicles on U.S. roads due to national security concerns, sources told Reuters. The proposed regulation would ban the import and sale of vehicles from China with key communications or automated driving system software or hardware. More details await.
+
+#### Single Stock: 
+BYD is expected to expand into Pakistan in partnership with Pakistan’s biggest private electricity producer Hub Power’s subsidiary Mega Motor to set up the country’s first electric vehicle assembly plant by 2026.
+
+### JP:
+Japan’s stock markets rose over the week, with the Nikkei 225 Index gaining 3.1% and the broader TOPIX Index up 2.8%.
+The Bank of Japan decided not to raise rates, but it signaled it is in no hurry to raise them again. This helped push the yen to its weakest daily close since September 4, which in turn helped lift Japanese stocks. The yen starts the week on a soft footing after a roller-coaster ride last week. It rallied through 140.00 per dollar for the first time in over a year but closed near 144.00 per dollar for a weekly loss of 2%, its worst week since April.
+Data-wise, core CPI rose 2.8% year on year in August, in line with expectations and up from 2.7% in July. The overall CPI rose 3.0%, also matching consensus and up from the prior month’s 2.8%.
+
+<x-accordion summary="Week of 13/09/2024">
+
+_Written by Dacian Deng Shen_ 
+
+### US: 
+U.S. stocks rebounded after a sell-off, led by strong gains in growth stocks, particularly in the tech sector, with NVIDIA playing a key role. Inflation data for August was mixed, with core inflation slightly exceeding expectations, while housing sector data offered some hope as mortgage rates hit their lowest level since February 2023. Treasury yields also reached year-to-date lows, with strong performance in high-yield bonds supported by equity gains and expectations of a Federal Reserve rate cut.
+FOMC cut rates by 50 basis points (bps), bringing them to a range of 4.75%-5.0%, but signalled a more gradual pace of rate cuts moving forward. The dot plot suggests further cuts totalling 100bps in both 2024 and 2025, indicating a cautious approach. Chairman Powell emphasized that the economy is not at risk of recession, with the labour market remaining a key focus to prevent further deterioration.
+While markets had priced in 250bps of cuts over the next year, Powell’s remarks and the dot plot suggest that actual rate cuts will likely be smaller, around 150bps, unless the economy weakens significantly. The Fed will continue to monitor economic data to guide future decisions, implying a flexible policy stance going forward.
+
+### Europe: 
+Stocks rose following an interest rate cut by the European Central Bank (ECB), though the ECB gave no clear direction on future policy moves. Meanwhile, the UK economy stagnated, but wage growth remained high, complicating inflation control efforts.
+
+### Asia: 
+Japan saw mixed stock performance, and hawkish comments from policymakers pointed to further rate hikes. However, GDP growth for the second quarter was revised lower. In China, weak inflation data raised concerns of an economic slowdown, although export growth exceeded expectations, providing a rare bright spot amid ongoing challenges in the property sector.
+
+### References: 
+https://corporate.nordea.com/article/95391/fomc-review-don-t-get-used-to-50s
+https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html
+
+</x-accordion>
+
 <x-accordion summary="Week of 30/08/2024">
  
 _Written by Erika Lau_
 
 ### US: 
+Stocks ended mixed in light pre-holiday trading with the Nasdaq Composite performing the worst due to NVIDIA's decline of more than 10%.
+CPE rose by 0.2% in July, largely as expected, although the year-over-year increase came in a tick lower than consensus, at 2.6%. Investors seemed pleased with confirmation that inflation was remaining subdued and near the Fed’s target, with Nasdaq futures, in particular, surging in the wake of the release.
+Personal incomes had increased an unexpected 0.3% in July, up from June’s 0.2%. Personal spending rose even more, 0.5%, although the gain was in line with consensus.
+The yield on the benchmark 10-year U.S. Treasury note drifted higher over the week, as hopes appeared to dim that the Federal Reserve would cut interest rates by a full 50 basis points (0.50 percentage point) at its mid-September meeting.
 
+### Europe: 
+European stock indexes rose, with STOXX Europe 600 reaching a record high amidst prospects of ECB interest rate cuts. The pan-European STOXX Europe 600 Index surged by 1.34%, reaching an all-time high. This key indicator continued its upward trend for the fourth consecutive week as significantly slower inflation provided grounds for the European Central Bank (ECB) to consider reducing interest rates in September.
+Inflation has approached its target level, with headline annual inflation dropping to 2.2% in August from 2.6% in July—the lowest figure in three years and slightly above the ECB's 2% goal.
 
-### CN/HK Markets 
-
+### China: 
+The Shanghai Composite Index is down for 0.43% while HSI is up for 2.17% after mixed corporate earnings data.
+Investors downgraded their expectations on some of the key economic data such as Retail Sales, from 4.5% to 4.0%, Fixed Asset Investment, from 4.4% to 4.2% and Consumer Price Index, from 0.6% to 0.5%. Given the above slowdown in growth, China might not be able to meet its GDP target of 5% this year.
+In terms of monetary policy, the medium-term lending facilities remain the same at 2.3% while the short term 7 day repo lending rate remains at 1.7%.
 
 </x-accordion>
 
