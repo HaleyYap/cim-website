@@ -6,24 +6,47 @@
 
 ## Headlines
 
-<x-accordion summary="Week of 30/08/2024">
+
+<x-accordion summary="Week of 18/10/2024">
 
 _Written by Erika Lau_
 
-### US:
-Stocks ended mixed in light pre-holiday trading with the Nasdaq Composite performing the worst due to NVIDIA's decline of more than 10%.
-CPE raise by 0.2% in July, largely as expected, although the year-over-year increase came in a tick lower than consensus, at 2.6%. Investors seemed pleased with confirmation that inflation was remaining subdued and near the Fed’s target, with Nasdaq futures, in particular, surging in the wake of the release.
-Personal incomes had increased an unexpected 0.3% in July, up from June’s 0.2%. Personal spending rose even more, 0.5%, although the gain was in line with consensus.
-The yield on the benchmark 10-year U.S. Treasury note drifted higher over the week, as hopes appeared to dim that the Federal Reserve would cut interest rates by a full 50 basis points (0.50 percentage point) at its mid-September meeting.
+### US: 
 
-### Europe:
-European stock indexes rose, with STOXX Europe 600 reaching a record high amidst prospects of ECB interest rate cuts. The pan-European STOXX Europe 600 Index surged by 1.34%, reaching an all-time high. This key indicator continued its upward trend for the fourth consecutive week as significantly slower inflation provided grounds for the European Central Bank (ECB) to consider reducing interest rates in September.
-Inflation has approached its target level, with headline annual inflation dropping to 2.2% in August from 2.6% in July—the lowest figure in three years and slightly above the ECB's 2% goal.
+#### Macro: 
 
-### China:
-The Shanghai Composite Index is down for 0.43% while HSI is up for 2.17% after mixed corporate earnings data.
-Investor downgraded their expectations on some of the key economic data such as Retail Sales, from 4.5% to 4.0%, Fixed Asset Invesment, from 4.4% to 4.2% and Consumer Price Index, from 0.6% to 0.5%. Given the above slowdown in growth, China might not be able to meet it’s GDP target of 5% this year.
-In terms of monetary policy, the medium-term lending facilities remains the same at 2.3% while the short term 7 day repo lending rate remains at 1.7%.
+Positive bank and tech earnings over the past week saw Wall Street indexes hit a series of record highs, with upcoming earnings likely to decide whether this momentum will continue.
+The S&P 500 rose 0.4% to 5,864.67 points on Friday, while the NASDAQ Composite rose 0.6% to 18,489.67 points. The Dow Jones Industrial Average edged up 0.1% but just managed to hit a record high of 43,257.91 points.
+U.S. retail sales increased 0.4% last month vs est. 0.3% vs prev. 0.1%. A measure of retail sales that excludes auto dealerships, building materials, food services, and gas stations climbed 0.7% from the prior month—the fastest rate of growth in three months.
+Industrial production dropped 0.3% in September after increasing 0.3% in the preceding month. The final number for August was revised downward from an initial estimate of 0.8%. Initial jobless claims fell unexpectedly to 241,000.
+
+#### Sector News: 
+
+Energy stocks pulled back in sympathy with oil prices, which retreated as fears of possible Israeli attacks on Iran’s oil and gas infrastructure subsided.
+Strategist at Bank of America, pointed out that in view of the increased possibility of Trump being elected and the Republican Party taking control of Congress, investors have begun to increase their positions in assets that performed well after Trump won in 2016, including banks, small stocks and the U.S. dollar.
+
+#### Single Stock: 
+Netflix NFLX was up 11% on Friday after reporting to have grew its subscriber numbers and expanded its operating margins by more than expected in the third quarter.
+Strong quarterly results from Taiwan Semiconductor Manufacturing TSM, which operates foundries that make advanced digital semiconductors, appeared to reignite excitement for artificial intelligence (AI)-related stocks that are in the Nasdaq.
+This week:
+TSLA is the biggest company to report earnings this Wed, after another EV maker GM on Tue.
+Major chips stocks TXN (Tue) LRCX (Wed) and WDC (Thu) are also set to report.
+Boarder tech sector IBM due on Wed.
+Telecom majors VZ (Tue), TMUS (Wed) and T (Wed) are also due.
+Consumer names LRLCY (Tue), MMM (Tue), KO (Wed)
+
+### Greater China: 
+
+#### CN/HK Macro: 
+Chinese equities rose as the central bank unveiled more support measures after data showed that deflationary pressures grew more entrenched in the economy. The Shanghai Composite Index gained 1.36% in local currency terms, while the blue chip CSI 300 added 0.98%. HSI Index fell 2.11%.
+GDP reported to be at 4.6% higher than consensus, though lower than Q2 at 4.7% and government’s target at 5%.
+Other economic data showed signs of improvement. Industrial production rose a better-than-expected 5.4% yoy vs prev. +4.5%. Retail sales grew an above-forecast 3.2 yoy vs prev. +2.1%. Higher sales ofhousehold appliances were a contributing factor. Meanwhile, PPI fell a bigger-than-expected 2.8% from a year ago, deepening from August’s 1.8% drop.
+
+#### TW News:
+TAIEX were up 2.3% driven up by TSMC (2330) positive earnings report on Friday. Net revenue came in at $23.5 billion in the third quarter, up 36% year on year.
+The starting price of Vivo’s latest “X200” series equipped with MediaTek’s (2454) new flagship 5G chip “Dimensity 9400" is 7.5% higher than market expectations. The industry believes that it is related to the substantial increase in the unit price of MediaTek’s Dimensity 9400, which is expected to trigger subsequent more non-Apple brands followed up with price increases, benefiting the share price ofMediaTek.
+
+</x-accordion>
 
 <x-accordion summary="Week of 25/07/2024">
 
