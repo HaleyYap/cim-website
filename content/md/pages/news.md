@@ -6,6 +6,18 @@
 
 ## Headlines
 
+<x-accordion summary="Week of 30/08/2024">
+ 
+_Written by Erika Lau_
+
+### US: 
+
+
+### CN/HK Markets 
+
+
+</x-accordion>
+
 <x-accordion summary="Week of 25/07/2024">
 
 _Written by Kayla Tarliman_
